@@ -32,7 +32,7 @@ namespace ParcialRT
             Contrasenia = contrasenia;
             
         }
-        //** No se te olvide cambiar esto **//
+       
         public void RealizarPrestamo()
         {
             Console.WriteLine("Préstamo realizado por el usuario: " + NombreUsuario);
